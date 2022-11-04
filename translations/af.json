@@ -1,0 +1,41 @@
+{
+	"advent":  "Advent",
+    "christmastide":  "Kersfees",
+    "early ordinary time":  "Early Ordinary Time",
+    "later ordinary time":  "Later Ordinary Time",
+    "lent":  "Vastyd",
+    "holy week":  "Heilige Week",
+    "easter":  "Paasfees",
+
+	"SOLEMNITY":  "Solemnity",
+    "SUNDAY":  "Sondag",
+    "TRIDUUM":  "Triduum",
+    "HOLY_WEEK":  "Heilige Week",
+    "FEAST":  "Fees",
+    "MEMORIAL":  "Gedenkteken",
+    "OPT_MEMORIAL":  "Ops. Gedenkteken",
+    "COMMEMORATION":  "Herdenking",
+    "FERIA":  "Ferial",
+
+    "RED":  "Rooi",
+    "ROSE": "Roos",
+    "PURPLE":  "Pers",
+    "GREEN": "Groen",
+    "WHITE":  "Wit",
+    "GOLD": "Goud",
+
+	"year-a": "Jaar A",
+	"year-b": "Jaar B",
+	"year-c": "Jaar C",
+
+	"monday": "Maandag",
+	"tuesday": "Dinsdag",
+	"wednesday": "Woensdag",
+	"thursday": "Donderdag",
+	"friday": "Vrydag",
+	"saturday": "Saterdag",
+	"sunday": "Sondag",
+	"today": "Vandag",
+
+	"TITLE": "{weekday}, {weekNumber} week in {season} of {yearName}"
+}

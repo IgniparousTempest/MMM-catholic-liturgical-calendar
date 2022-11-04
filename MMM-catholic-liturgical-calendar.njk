@@ -1,0 +1,14 @@
+<table class="small">
+{% for celebration in celebrations %}
+  <tr class="normal" {% if config.fade %}style="opacity: {{ loop.index | opacity(celebrations | length) }};"{% endif %}>
+    <td style="text-align: center;">{% if celebration.attendChurch %}
+    <i class="fa-solid fa-church"></i>
+    {% else %}
+    <i class="fa-solid fa-cross"></i>
+    {% endif %}</td>
+    <td>{{celebration.colour}}</td>
+    <td><span class="bright">{{celebration.name  | truncate(35, true)}}</span>, {{celebration.importance}}</td>
+    <td>{{celebration.date | formatDate}}</td>
+  </tr>
+{% endfor %}
+</table>

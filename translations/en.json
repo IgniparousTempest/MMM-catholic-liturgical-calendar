@@ -1,0 +1,41 @@
+{
+	"advent":  "Advent",
+    "christmastide":  "Christmastide",
+    "early ordinary time":  "Early Ordinary Time",
+    "later ordinary time":  "Later Ordinary Time",
+    "lent":  "Lent",
+    "holy week":  "Holy Week",
+    "easter":  "Easter",
+
+	"SOLEMNITY":  "Solemnity",
+    "SUNDAY":  "Sunday",
+    "TRIDUUM":  "Triduum",
+    "HOLY_WEEK":  "Holy Week",
+    "FEAST":  "Feast",
+    "MEMORIAL":  "Memorial",
+    "OPT_MEMORIAL":  "Opt. Memorial",
+    "COMMEMORATION":  "Commemoration",
+    "FERIA":  "Ferial",
+
+    "RED":  "Red",
+    "ROSE": "Rose",
+    "PURPLE":  "Purple",
+    "GREEN": "Green",
+    "WHITE":  "White",
+    "GOLD": "Gold",
+
+	"year-a": "Year A",
+	"year-b": "Year B",
+	"year-c": "Year C",
+
+	"monday": "Monday",
+	"tuesday": "Tuesday",
+	"wednesday": "Wednesday",
+	"thursday": "Thursday",
+	"friday": "Friday",
+	"saturday": "Saturday",
+	"sunday": "Sunday",
+	"today": "Today",
+
+	"TITLE": "{weekday}, {weekNumber} week in {season} of {yearName}"
+}
