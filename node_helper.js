@@ -6,7 +6,6 @@ module.exports = NodeHelper.create({
   // Override start method.
   start: function() {
     Log.log("Starting node helper for: " + this.name);
-    this.fetchers = [];
   },
 
   // Override socketNotificationReceived method.
